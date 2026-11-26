@@ -1,6 +1,8 @@
 # fejiv
 Fixed effect jackknife IV ('FEJIV') estimation Use fejiv With (In) R Software
 
+https://www.youtube.com/watch?v=Q5hpH2p75nc
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
